@@ -70,42 +70,9 @@ Hi, I'm Saqib Hussain!
 </p>
 </br>
 
-<!--
+
 ### 👨🏽‍💻 Workspace
 <p>
     <a href="https://github.com/saqibhussaen"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
     <a href="https://github.com/saqibhussaen"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</p>
--->
-
-
-## <a href="https://github.com/saqibhussaen"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
-
-<br/>
-<summary><b>⚡Stats</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=saqibhussaen&show_icons=true" alt="saqibhussaen">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=saqibhussaen" alt="saqibhussaen">
-	</a>
-	<br/>
-</p>
-<br/>
-<!--
-<summary><b>⚡ Activity graph</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/saqibhussaen">
-		<img src="https://activity-graph.herokuapp.com/graph?username=saqibhussaen&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="saqibhussaen">
-	</a>
-</p>
-<br/>
--->
-<p align="center">
-	<a href="https://github.com/saqibhussaen">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibhussaen&langs_count=8&layout=compact" alt="bouaskaoun">
-	</a>
-	<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
