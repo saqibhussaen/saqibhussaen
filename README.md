@@ -69,10 +69,6 @@ Hi, I'm Saqib Hussain!
     <a href="https://github.com/saqibhussaen"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 </br>
-
-
-### 👨🏽‍💻 Workspace
 <p>
-    <a href="https://github.com/saqibhussaen"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
     <a href="https://github.com/saqibhussaen"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
