@@ -82,7 +82,7 @@ Hi, I'm Saqib Hussain!
 ## <a href="https://github.com/saqibhussaen"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 <br/>
-<summary><b>⚡ Bouaskaoun's Stats</b></summary>
+<summary><b>⚡Stats</b></summary>
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
@@ -93,7 +93,7 @@ Hi, I'm Saqib Hussain!
 </p>
 <br/>
 <!--
-<b>⚡ Activity graph</b>
+<summary><b>⚡ Activity graph</b></summary>
 <br/>
 <p align="center">
 	<a href="https://github.com/saqibhussaen">
