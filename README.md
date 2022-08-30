@@ -74,6 +74,6 @@ Hi, I'm Saqib Hussain!
 </p>
 
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/saqibhussaen">
 		<img src="https://giphy.com/embed/zOvBKUUEERdNm">
 	</a>
