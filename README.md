@@ -18,9 +18,6 @@ Hi, I'm Saqib Hussain!
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
-
-<hr>
-
 <pre>
 💻 I am a Data Enthusiast.
 📚 I'm studying Bachelors in Computer Science from Virtual University Of Pakistan.
@@ -30,7 +27,6 @@ Hi, I'm Saqib Hussain!
 🌟 Main languages: Python, R, SQL
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/10kfD8wh5SHgQ9ln2PZRVt6-ISSI1xRk9/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
-<hr>
 
 ## 🤝 Connect with me
 <p align="center">
