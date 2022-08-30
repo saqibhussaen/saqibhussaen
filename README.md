@@ -93,7 +93,7 @@ Hi, I'm Saqib Hussain!
 </p>
 <br/>
 <!--
-<summary><b>⚡ Activity graph</b></summary>
+<b>⚡ Activity graph</b>
 <br/>
 <p align="center">
 	<a href="https://github.com/saqibhussaen">
