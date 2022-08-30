@@ -14,7 +14,7 @@ Hi, I'm Saqib Hussain!
 </p>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/saqibhussaen">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
@@ -73,4 +73,7 @@ Hi, I'm Saqib Hussain!
     <a href="https://github.com/saqibhussaen"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
-<iframe src="https://giphy.com/embed/zOvBKUUEERdNm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://giphy.com/embed/zOvBKUUEERdNm">
+	</a>
