@@ -74,6 +74,6 @@ Hi, I'm Saqib Hussain!
 </p>
 
 <a target="_blank" align="center">
-  <img align="center" top="500" height="300" width="450" alt="GIF" src="https://giphy.com/embed/zOvBKUUEERdNm">
+  <img align="center" top="500" height="300" width="450" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
 </a>
 
