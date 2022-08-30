@@ -114,26 +114,5 @@ Hi, I'm Saqib Hussain!
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibhussaen&langs_count=8&layout=compact" alt="bouaskaoun">
 	</a>
 	<br/>
-<br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-<br/>
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-
-
-You can hire me as a freelancer on <a href="https://www.linkedin.com/in/saqibhussaen/">LinkedIn</a>
-  </td>
-  <td width="50%" valign="top">
-  </td>
-  </tr>
-</table>
-
-------
-
-[saqibhussaen](https://github.com/saqibhussaen)
-
-Last Edited on: 30/08/2022
