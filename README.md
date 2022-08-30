@@ -102,9 +102,6 @@ Hi, I'm Saqib Hussain!
 </p>
 <br/>
 -->
-<summary><b>⚡ Top Languages</b></summary>
-<br/>
-
 <p align="center">
 	<a href="https://github.com/saqibhussaen">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibhussaen&langs_count=8&layout=compact" alt="bouaskaoun">
