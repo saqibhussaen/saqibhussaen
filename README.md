@@ -36,7 +36,7 @@ Hi, I'm Saqib Hussain!
 	<a href="https://www.kaggle.com/saqibhussaen"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
 
-## 🛠️ My Favorite Tools
+## 
 
 ### 👨‍💻 Favorite Programming Language
 
