@@ -49,7 +49,7 @@ Hi, I'm Saqib Hussain!
 
 ## 
 
-### 👨‍💻 Favorite Programming Language
+### 👨‍💻 Fav Programming Language
 
 <p>
     <a href="https://github.com/saqibhussaen"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
