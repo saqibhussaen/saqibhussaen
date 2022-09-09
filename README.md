@@ -19,13 +19,13 @@ Hi, I'm Saqib Hussain!
 	</a>
 </p>
 <pre>
-💻 I am a Data Enthusiast.
+💻 I am a Computer Science Student & Data Enthusiast.
 📚 I'm studying Bachelors in Computer Science from Virtual University Of Pakistan.
 📝 I have a strong interest in Data Science and Artificial Intelligence.
 🔭 Working on Deep Learning & Machine Learning.
 🌱 Learning about Computer Vision and Machine Learning stuff.
 🌟 Main languages: Python, R, SQL
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/10kfD8wh5SHgQ9ln2PZRVt6-ISSI1xRk9/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open to work <a href="https://drive.google.com/file/d/10kfD8wh5SHgQ9ln2PZRVt6-ISSI1xRk9/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
