@@ -23,7 +23,6 @@ Techie with broad knowledge in Data, Stats, and Development, I Extract, Analyze 
 Python & Microsoft Office Suite in a timely manner. A good learner with problem-solving and management skills,
 and the ability to solve IT technical issues. Proficient in python and a range of computer applications. Always
 learning new topics within DS, CS, and IT.
-
 Open to work <a href="https://drive.google.com/file/d/10kfD8wh5SHgQ9ln2PZRVt6-ISSI1xRk9/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
