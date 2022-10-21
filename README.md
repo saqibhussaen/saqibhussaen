@@ -20,7 +20,7 @@ Hi, I'm Saqib Hussain!.
 </p>
 <pre>
 Techie with broad knowledge in Data, Stats, and Development, I Extract, Analyze and Visualize Data using
-Python & Microsoft Office Suite. A good learner with problem-solving and management skills,
+Python & SQL. A good learner with problem-solving and management skills,
 and the ability to solve IT technical issues. Proficient in python and a range of computer applications. Always
 learning new topics within DS, CS, and IT.
 </pre>
