@@ -18,12 +18,9 @@ Hi, I'm Saqib Hussain!.
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Freelancer;Always%20learning%20new%20topics&center=true&width=380&height=45">
 	</a>
 </p>
-<pre>
-Techie with broad knowledge in Data, Stats, and Development, I Extract, Analyze and Visualize Data using
-Python & SQL. A good learner with problem-solving and management skills,
-and the ability to solve IT technical issues. Proficient in python and a range of computer applications. Always
-learning new topics within DS, CS, and IT.
-</pre>
+
+A Techie, Superuser, and Computer Geek with Experience, Skills, and Knowledge in Information technology, Data, Development and technical stuff. I solve IT issues, Errors, Bugs, API testing, etc. Proficient in Python, SQL, and a range of computer applications I don't remember.
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
 
