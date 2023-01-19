@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
 Hi, I'm Saqib Hussain!.
 	<a href="https://github.com/Bouaskaoun" target="_self"> 
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
@@ -19,7 +19,9 @@ Hi, I'm Saqib Hussain!.
 	</a>
 </p>
 
-A Techie, Superuser, and Computer Geek with Experience, Skills, and Knowledge in Information technology, Data, Development and technical stuff. I solve IT issues, Errors, Bugs, API testing, etc. Proficient in Python, SQL, and a range of computer applications I don't remember.
+<p align="left">
+A Techie, Superuser, and Computer Geek with Experience, Skills, and Knowledge in Information technology, Data, Development and technical stuff. I solve IT issues, Errors, Bugs, API testing, etc. Proficient in Python, SQL, and a range of computer applications I don't really remember.
+</p>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
