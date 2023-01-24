@@ -19,7 +19,11 @@ Hi, I'm Saqib Hussain!.
 	</a>
 </p>
 <p align="left">
-A Techie, Superuser, and Computer Geek with Experience, Skills, and Knowledge in Information technology, Data, Development and technical stuff. I solve IT issues, Errors, Bugs, API testing, etc. Proficient in Python, SQL, and a range of computer applications I don't really remember.
+ A Techie, Superuser, and Computer Geek with Experience, Skills, and Knowledge in Information technology. I solve IT issues, Errors, Bugs, API testing, etc. Proficient in Python, SQL, and a range of computer applications.
+
+- Can write Python, C# & SQL.
+- Can troubleshoot Operating Systems, Applications, & Networks.
+- Knowledge of API testing, Access controls, Active Directory, OOP, Version Control, Github, Dependencies, PDFs, Automation, TCP/IP, SSL/TLS, Configuring Databases & Cloud.
 </p>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
