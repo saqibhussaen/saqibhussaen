@@ -15,15 +15,11 @@ Hi, I'm Saqib Hussain!.
 <br/>
 <p align="center">
 	<a href="https://github.com/saqibhussaen">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Freelancer;Always%20learning%20new%20topics&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Freelancer;&center=true&width=380&height=45">
 	</a>
 </p>
 <p align="left">
- A Techie, Superuser, and Computer Geek with Experience, Skills, and Knowledge in Information technology. I solve IT issues, Errors, Bugs, API testing, etc. Proficient in Python, SQL, and a range of computer applications.
-
-- Can write Python, C# & SQL.
-- Can troubleshoot Operating Systems, Applications, & Networks.
-- Knowledge of API testing, Access controls, Active Directory, OOP, Version Control, Github, Dependencies, PDFs, Automation, TCP/IP, SSL/TLS, Configuring Databases & Cloud.
+Highly skilled and experienced IT professional with proficiency in programming languages such as Python, C#, and SQL. Capable of troubleshooting operating systems, applications, and networks. Strong knowledge of API testing, Access Controls, Active Directory, OOP, Version Control, Github, Dependencies, PDFs, TCP/IP, SSL/TLS, Automation, and configuring databases. Adept at solving complex IT issues and bugs, with a track record of delivering high-quality solutions.
 </p>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
