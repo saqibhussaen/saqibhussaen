@@ -19,7 +19,7 @@ Hi, I'm Saqib Hussain!.
 	</a>
 </p>
 <p align="left">
-I'm the IT superhero you never knew you needed. I speak fluent Python, SQL, and a smorgasbord of computer lingo, I save the day by fixing IT issues, squashing bugs, and performing API tests with ease. Think of me as a computer wizard who can cast spells in C# and SQL and has an encyclopedic knowledge of access controls, active directories, version control, and even the mysterious art of PDFs. I'm a master of TCP/IP and SSL/TLS, and I have a black belt in configuring databases and the cloud. So, if you're having technical difficulties, just give me a call. I'll have you up and running in no time.
+22, Freelancer on Upwork, and a Part-Time Computer Science Student.
 </p>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
