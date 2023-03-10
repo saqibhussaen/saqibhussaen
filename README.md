@@ -18,7 +18,7 @@ Hi, I'm Saqib Hussain!.
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Freelancer;&center=true&width=380&height=45">
 	</a>
 </p>
-<p align="left">
+<p align="center">
 22, Freelancer on Upwork, and a Part-Time Computer Science Student.
 </p>
 
