@@ -12,7 +12,6 @@ Hi, I'm Saqib Hussain!.
 		<img src="https://img.shields.io/github/followers/saqibhussaen?label=Followers" alt="saqibhussaen" />
 	</a>
 </p>
-<br/>
 <p align="center">
 	<a href="https://github.com/saqibhussaen">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Freelance;SoftwareEngineering;&center=true&width=380&height=45">
