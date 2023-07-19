@@ -18,6 +18,14 @@ Hi, I'm Saqib Hussain!.
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Freelancer;&center=true&width=380&height=45">
 	</a>
 </p>
+
+
+<p align="center">
+	<a href="https://github.com/saqibhussaen">
+		<img src="https://giphy.com/embed/VF0WIRjfwvFERopBFY">
+	</a>
+</p>
+
 <p align="center">
 22, Freelancer on Upwork, and a Part-Time Computer Science Student.
 </p>
