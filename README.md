@@ -22,7 +22,7 @@ Hi, I'm Saqib Hussain!.
 
 <p align="center">
 	<a href="https://github.com/saqibhussaen">
-		<img src="https://giphy.com/embed/VF0WIRjfwvFERopBFY">
+		<img src="https://media.giphy.com/media/VF0WIRjfwvFERopBFY/giphy.gif">
 	</a>
 </p>
 
