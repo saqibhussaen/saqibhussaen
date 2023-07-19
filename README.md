@@ -15,10 +15,9 @@ Hi, I'm Saqib Hussain!.
 <br/>
 <p align="center">
 	<a href="https://github.com/saqibhussaen">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Freelancer;&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Freelance;SoftwareEngineering;&center=true&width=380&height=45">
 	</a>
 </p>
-
 
 <p align="center">
 	<a href="https://github.com/saqibhussaen">
