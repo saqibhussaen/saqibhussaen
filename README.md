@@ -24,10 +24,6 @@ Hi, I'm Saqib Hussain!.
 	</a>
 </p>
 
-<p align="center">
-22, Freelancer on Upwork, and a Part-Time Computer Science Student.
-</p>
-
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
 
